@@ -1,0 +1,8 @@
+{
+  "name": "Lakshay Tandon - The Intelligence Engine",
+  "description": "Immersive portfolio and AI laboratory of Lakshay Tandon, AI Engineer, Generative AI Developer, and Software Builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
